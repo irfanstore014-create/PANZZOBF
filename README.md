@@ -59,7 +59,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/PANZZOBF.git
+   git clone https://github.com/irfanstore014-create/PANZZOBF
    cd PANZZOBF
    ```
 
