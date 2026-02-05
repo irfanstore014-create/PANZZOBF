@@ -1,0 +1,21 @@
+{
+  "name": "encrypt-bot",
+  "version": "1.0.0",
+  "description": "PANZZ Obf",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "PutraObf",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "fs-extra": "^11.2.0",
+    "js-confuser": "latest",
+    "ssh2": "^1.16.0",
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
